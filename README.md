@@ -1,5 +1,5 @@
 # Hi there, I'm Leon ✌
-I'm a software developer with a bachelors degree in business computer science from Germany. I currently work at [dSPACE](https://www.dspace.com/en/inc/home.cfm) on their ConfigurationDesk software solution. Prior to that I worked as a Junior IT Consultant at [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us/) responsible for Software QA, release management and mobile development.
+I'm a software developer with a B.Sc. in business computer science from Germany. I currently work at [dSPACE](https://www.dspace.com/en/inc/home.cfm) on their ConfigurationDesk software solution. Prior to that I worked as a Junior IT Consultant at [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us/) responsible for Software QA, release management and mobile development.
 
 Aside from my main job I create music for [False Advertisement](https://soundcloud.com/falseadvertisement), [dain.](https://soundcloud.com/dain_sounds/sets/dain-discography) and do mixing related work for [Barely Social](https://soundcloud.com/barelysocial) 🎹.
 
