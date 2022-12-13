@@ -4,7 +4,7 @@ I'm a software developer with a B.Sc. in business computer science from Germany.
 I also make music on the side.
 
 ## Current tech 💻:
-- C# / .NET / WPF
+- C# / .NET / WPF / ASP.NET
 - Go
 - Docker
 
