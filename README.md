@@ -1,5 +1,5 @@
 # Hi there, I'm Leon ✌
-I'm a software developer with a B.Sc. in business computer science from Germany. I currently work at [dSPACE](https://www.dspace.com/en/inc/home.cfm) on their ConfigurationDesk software solution. Prior to that I worked as a Junior IT Consultant at [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us/) responsible for Software QA, release management and mobile development for the Android platform.
+I'm a software developer from Germany. I currently work at [dSPACE](https://www.dspace.com/en/inc/home.cfm) on the ConfigurationDesk software. Prior to that I worked as a Junior IT Consultant at [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us/) responsible for Software QA, release management and mobile development on Android.
 
 I also make music on the side.
 
