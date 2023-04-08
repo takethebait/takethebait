@@ -1,17 +1,17 @@
 # Hi there, I'm Leon ✌
-I'm a software developer from Germany. I currently work at [dSPACE](https://www.dspace.com/en/inc/home.cfm) on the ConfigurationDesk software. Prior to that I worked as a Junior IT Consultant at [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us/) responsible for Software QA, release management and mobile development on Android.
+I'm a software developer from Germany. I currently work at [dSPACE](https://www.dspace.com/en/inc/home.cfm) on the ConfigurationDesk product. Prior to that I worked as a Junior IT Consultant at [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us/) responsible for Software QA, release management and mobile development on Android.
 
 I also make music on the side.
 
 ## Current tech 💻:
-- C# / .NET / WPF / ASP.NET
+- C# / .NET 6
 - Go
 - Docker
 
 ## Currently learning 👨‍🎓:
-- K8s
-- Unreal Engine
-- C / C++
+- Unreal Engine (C++)
+- Rust
+- A little bit of distributed systems
 
 ## Feel free to hit me up 🌎:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leon-baitinger-b7a2b9112/) or [XING](https://www.xing.com/profile/Leon_Baitinger/cv)
