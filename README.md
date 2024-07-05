@@ -1,15 +1,15 @@
 # Hi there, I'm Leon ✌
-I'm a software developer from Germany. I currently work at [dSPACE](https://www.dspace.com/en/inc/home.cfm) on the ConfigurationDesk product. Prior to that I worked as a Junior IT Consultant at [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us/) responsible for Software QA, release management and mobile development on Android.
+I'm a software developer from Germany. I currently work at [dSPACE](https://www.dspace.com/en/inc/home.cfm). Prior to that I worked as a Junior IT Consultant at [Diebold Nixdorf](https://www.dieboldnixdorf.com/en-us/) responsible for Software QA, release management and mobile development on Android.
 
 I also make music on the side.
 
 ## Current tech 💻:
-- C# / .NET 6
-- Go
+- C# / .NET / WPF / Avalonia
+- React
 - Docker
 
 ## Currently learning 👨‍🎓:
-- Unreal Engine (C++)
+- Unreal Engine / Godot
 - Rust
 - A little bit of distributed systems
 
