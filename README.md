@@ -4,18 +4,18 @@ I'm a software developer from Germany. I currently work at [dSPACE](https://www.
 I also make music on the side.
 
 ## Current tech 💻:
-- C# / .NET / WPF / Avalonia
-- React
+- C# / .NET / WPF / Avalonia (soon)
+- React / Typescript / Electron
+- Go
 - Docker
 
 ## Currently learning 👨‍🎓:
-- Unreal Engine / Godot
-- Rust
-- A little bit of distributed systems
+- WebGPU
+- The ungodly world of Javascript build systems...
 
 ## Feel free to hit me up 🌎:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/leon-baitinger-b7a2b9112/) or [XING](https://www.xing.com/profile/Leon_Baitinger/cv)
-- Send me memes on [Twitter](https://twitter.com/itsfrankiefunk)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/leon-baitinger-b7a2b9112/)
+- Send me memes on [Twitter](https://twitter.com/itsfrankiefunk) or [Bluesky](https://bsky.app/profile/frankiefunk.nohit.club) 
 <!--
 **takethebait/takethebait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
