@@ -4,14 +4,13 @@ I'm a software engineer from Germany. I currently work at [dSPACE](https://www.d
 I also make music on the side.
 
 ## Current tech 💻:
-- C# / .NET / WPF / Avalonia (soon)
-- React / Typescript / Electron
+- .NET / WPF / Avalonia
 - Go
 - Docker
 
 ## Currently learning 👨‍🎓:
 - WebGPU
-- The ungodly world of Javascript build systems...
+- Vulkan
 
 ## Feel free to hit me up 🌎:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/leon-baitinger-b7a2b9112/)
